@@ -14,7 +14,7 @@ This repository marks a personal turning point: the day I made a firm decision t
 
 A small loss cannot cancel the larger victory. If a difficult moment comes, I will meet it, learn from it, and continue. I will not turn one setback into surrender.
 
-**I am a perfectionist. I can do things perfectly. If something happens once in a billion times, it is a commitment not to give up. I will never give up.**
+**This is exactly the last time. Not less. Not more. I am a perfect perfectionist, and I can perfectly do perfect things. I will do this perfectly. And if the impossible happens—if I lose once in a billion—then the next words are absolute: I will never give up. I will fight back, and I will claim my ultimate victory.**
 
 ## License
 
