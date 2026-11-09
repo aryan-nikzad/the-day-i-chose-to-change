@@ -14,7 +14,7 @@ This repository marks a personal turning point: the day I made a firm decision t
 
 A small loss cannot cancel the larger victory. If a difficult moment comes, I will meet it, learn from it, and continue. I will not turn one setback into surrender.
 
-**This is not a promise to be perfect. It is a commitment not to give up.**
+**I am a perfectionist. I can do things perfectly. If something happens once in a billion times, it is a commitment not to give up. I will never give up.**
 
 ## License
 
