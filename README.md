@@ -43,3 +43,17 @@ I also need to record the consequences I experienced afterward. I felt my natura
 **This is why I must not allow Seyed—or anyone else—to impose this kind of disruption on my plans again.** My time, routine, recovery, self-control, and commitments are not available for someone else's unpredictable decisions. I have already made the boundary clear. I must enforce it in practice: protect my schedule, refuse the same circumstances, and do not give anyone another opportunity to derail the plan in this way.
 
 The importance of this boundary is not negotiable. I will take responsibility for my choices, while also taking responsibility for protecting the conditions that help me make those choices. No repeat of this disruption.
+
+### The recovery protocol I discovered
+
+While investigating what went wrong—and the problems that appeared even before I had properly started planning—I found what has been the most effective recovery method for me. When a day is derailed, I should not keep endlessly analyzing it or trying to rescue it through more planning. I should follow this sequence and return to action:
+
+1. **Take a shower.** Reset physically and mentally.
+2. **Complete the remaining prayers.** The evening and night prayers are Maghrib and Isha. (If I meant a different pair, I can correct this wording later.)
+3. **Plan tomorrow's task list in Fuzzy Journey**, my scheduling and work-planning app.
+4. **Go to sleep as soon as reasonably possible.** Do not prolong the night with more analysis or distractions.
+5. **Wake at the time scheduled by Fuzzy Journey.** Treat that wake-up time as the anchor for restarting the routine. Do not deliberately stay awake all night, use excessive caffeine, or put safety at risk to force it; if sleep loss makes driving or other hazardous activity unsafe, choose safety and resume the plan as soon as possible.
+6. **Start following Fuzzy Journey's schedule.** The first step should include making wudu (وضو) and performing the Dhuhr/noon prayer at its proper time. Do not neglect prayer; follow the actual prayer time rather than treating a scheduled clock time as permission to pray outside it.
+7. **Do not keep planning the start. Start working.** Once the next task is clear, begin it. No more postponing action in order to perfect the plan.
+
+This is the recovery sequence I found most effective. It turns a disrupted day into a concrete reset: shower, prayer, prepare tomorrow, sleep, wake, return to the schedule, and work. **The purpose of planning is to get me moving—not to become another way to delay starting.**
