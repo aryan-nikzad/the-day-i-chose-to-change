@@ -19,3 +19,17 @@ A small loss cannot cancel the larger victory. If a difficult moment comes, I wi
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+## November 13, 2026 — The Only Failure, and the Final Boundary
+
+Today, my plan was disrupted because I allowed an unexpected situation with a friend, Seyed, to take far more of my time than it should have. I had made my expectations clear, and today I made it clear again: this must not happen another time.
+
+I am not leaving this to memory or hope. I have built a mental boundary—a shield that reminds me to protect my time, keep my commitments, and refuse to let the same circumstance take control of my day again. If an agreement is broken, it will not be treated as though nothing happened. The boundary will hold, and the same opening will not be left available.
+
+This is the one failure I am recording in this plan. I am treating it as the last occurrence of this specific failure—not as permission to abandon the plan, and not as a reason to punish myself. The lesson is clear, the boundary is set, and responsibility for what happens next is mine.
+
+Today, I will take a shower, go to the gym, and return to my prayers. I will restart the plan through action, not promises. From now on, I will protect the structure I chose and not let avoidable interruptions pull me away from it.
+
+Like a ceasefire that has been broken, trust in that arrangement cannot simply continue unchanged. The response is not endless argument; it is a firm boundary and a change in what I allow. **This failure ends here. I return to the plan, and I do not give up.**
