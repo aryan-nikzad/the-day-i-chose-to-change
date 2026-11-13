@@ -33,3 +33,13 @@ This is the one failure I am recording in this plan. I am treating it as the las
 Today, I will take a shower, go to the gym, and return to my prayers. I will restart the plan through action, not promises. From now on, I will protect the structure I chose and not let avoidable interruptions pull me away from it.
 
 Like a ceasefire that has been broken, trust in that arrangement cannot simply continue unchanged. The response is not endless argument; it is a firm boundary and a change in what I allow. **This failure ends here. I return to the plan, and I do not give up.**
+
+### The full impact — why this boundary is non-negotiable
+
+What happened yesterday did not merely interrupt a few hours. Seyed's actions destroyed the plan for that day, and it took me one additional day to recover and put the plan back together. The damage therefore cost me two days in total: one day lost to the disruption, and another day spent repairing what it broke.
+
+I also need to record the consequences I experienced afterward. I felt my natural dopamine and motivation drop. I became more aggressive with my family. And today, I returned to the bad habit I am trying to leave behind. I am recording this as my experience of the aftermath—not as an excuse to avoid responsibility for my own actions, but as a clear account of how serious this disruption was for me.
+
+**This is why I must not allow Seyed—or anyone else—to impose this kind of disruption on my plans again.** My time, routine, recovery, self-control, and commitments are not available for someone else's unpredictable decisions. I have already made the boundary clear. I must enforce it in practice: protect my schedule, refuse the same circumstances, and do not give anyone another opportunity to derail the plan in this way.
+
+The importance of this boundary is not negotiable. I will take responsibility for my choices, while also taking responsibility for protecting the conditions that help me make those choices. No repeat of this disruption.
