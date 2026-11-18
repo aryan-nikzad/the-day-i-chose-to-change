@@ -52,7 +52,7 @@ While investigating what went wrong—and the problems that appeared even before
 2. **Complete the remaining prayers.** The evening and night prayers are Maghrib and Isha. (If I meant a different pair, I can correct this wording later.)
 3. **Plan tomorrow's task list in Fuzzy Journey**, my scheduling and work-planning app.
 4. **Go to sleep as soon as reasonably possible.** Do not prolong the night with more analysis or distractions.
-5. **Wake at the time scheduled by Fuzzy Journey.** Treat that wake-up time as the anchor for restarting the routine. Do not deliberately stay awake all night, use excessive caffeine, or put safety at risk to force it; if sleep loss makes driving or other hazardous activity unsafe, choose safety and resume the plan as soon as possible.
+5. **Wake at the time scheduled by Fuzzy Journey at any cost.** This wake-up time is fixed and is the anchor for restarting my routine. I must wake at that exact scheduled time even if it means using coffee or other caffeine, or not sleeping at all for the entire night. I must not move the wake-up time because I slept late or did not sleep.
 6. **Start following Fuzzy Journey's schedule.** The first step should include making wudu (وضو) and performing the Dhuhr/noon prayer at its proper time. Do not neglect prayer; follow the actual prayer time rather than treating a scheduled clock time as permission to pray outside it.
 7. **Do not keep planning the start. Start working.** Once the next task is clear, begin it. No more postponing action in order to perfect the plan.
 
@@ -191,7 +191,7 @@ When I notice that I have drifted away from the plan:
 3. **Choose the right scale.** If I can function but cannot manage a normal day, activate Disruption Mode and use the reduced plan. If I cannot manage even that, take an intentional offline recovery day: rest, sleep, or stay awake without using the PC. Do not force exercise or work when it is unsafe.
 4. **Return to my anchors as I am able.** Keep prayers at their proper times. Preserve exercise, reading, and other routine activities when health and circumstances allow; adapt them when they do not.
 5. **Reset simply.** Shower if helpful, complete any remaining prayers, and prepare only the next day's essential plan. Do not turn recovery into hours of planning.
-6. **Sleep and restart.** Get reasonable sleep, wake safely, and follow the next planned action. Start; do not wait for a perfect feeling or a perfect plan.
+6. **Sleep and restart.** Go to sleep as soon as possible, then wake at the exact time scheduled by Fuzzy Journey at any cost—even if I have to use coffee or other caffeine, or have not slept at all. The scheduled wake-up time does not change. Follow the next planned action; do not wait for a perfect feeling or a perfect plan.
 
 For an ordinary derailed day, the existing November 13 recovery protocol gives the more detailed sequence. For illness or a major disruption, the November 19 Disruption Mode rules apply. These are related but not identical situations: a recovery reset helps me restart after losing direction; Disruption Mode adapts the schedule when circumstances genuinely reduce my capacity.
 
