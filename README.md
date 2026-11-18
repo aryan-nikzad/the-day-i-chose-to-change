@@ -174,3 +174,32 @@ I need a firm boundary around computer use:
 This boundary is intended to reduce unnecessary stimulation and prevent the computer from pulling me away from the life and routine I am trying to build.
 
 **The plan lives in my mind. The computer checks and reminds. My routine protects my focus. The computer serves my work—and nothing else.**
+
+
+### November 19, 2026 — The Recovery Plan Must Also Live in My Mind
+
+I already have a recovery protocol in this repository, written under **“The recovery protocol I discovered”** in the November 13 entry. I should not assume that a written protocol is enough. If I only know how to recover by opening this repository or asking the computer what to do, then I have made the same mistake as keeping my entire plan in software.
+
+**I must learn the recovery sequence well enough to recall and use it without a computer.** This repository is the written reference and backup—not the thing I depend on in the moment.
+
+#### My short mental recovery sequence
+
+When I notice that I have drifted away from the plan:
+
+1. **Stop the spiral.** Do not declare the whole day ruined, keep analyzing, or escape into distractions. Pause and choose the next sensible action.
+2. **Check reality first.** Am I ill, exhausted, unsafe, grieving, or dealing with a genuine emergency? Take care of health, safety, and urgent responsibilities first.
+3. **Choose the right scale.** If I can function but cannot manage a normal day, activate Disruption Mode and use the reduced plan. If I cannot manage even that, take an intentional offline recovery day: rest, sleep, or stay awake without using the PC. Do not force exercise or work when it is unsafe.
+4. **Return to my anchors as I am able.** Keep prayers at their proper times. Preserve exercise, reading, and other routine activities when health and circumstances allow; adapt them when they do not.
+5. **Reset simply.** Shower if helpful, complete any remaining prayers, and prepare only the next day's essential plan. Do not turn recovery into hours of planning.
+6. **Sleep and restart.** Get reasonable sleep, wake safely, and follow the next planned action. Start; do not wait for a perfect feeling or a perfect plan.
+
+For an ordinary derailed day, the existing November 13 recovery protocol gives the more detailed sequence. For illness or a major disruption, the November 19 Disruption Mode rules apply. These are related but not identical situations: a recovery reset helps me restart after losing direction; Disruption Mode adapts the schedule when circumstances genuinely reduce my capacity.
+
+#### How I will keep it in my memory
+
+- I should be able to explain the short sequence aloud without opening the repository.
+- I should mentally rehearse it periodically, especially when I am calm—not wait until a crisis to read it for the first time.
+- If I cannot remember a detail, I can consult this repository when it is available, then return to remembering and understanding the plan myself.
+- Fuzzy Journey may remind me of the recovery steps, but it must never be the only place I can access or understand them.
+
+**The recovery plan is not “open the PC and find out what to do.” The recovery plan is already in my mind. The repository exists to verify, refresh, and preserve it.**
