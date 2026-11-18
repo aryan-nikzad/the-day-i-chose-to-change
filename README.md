@@ -65,3 +65,55 @@ This is the recovery sequence I found most effective. It turns a disrupted day i
 I am certain I will succeed. This is very easy when I follow the steps and simply do them. I do not need another round of planning, hesitation, or negotiation with myself. The process begins now, and I will keep moving through it one action at a time.
 
 **I have started. I will succeed. This is where the recovery begins.**
+
+---
+
+## November 19, 2026 — The Missing Exception: Disruption Days
+
+I have discovered a serious flaw in my planning system: it assumes that I will always have the physical and mental capacity to follow my normal schedule.
+
+That assumption is unrealistic.
+
+Three days ago, I became sick. A cold or another illness can reduce my energy, concentration, and ability to work. My normal plan did not account for this. As a result, I lost control of the schedule and ended up with days that did not go as planned.
+
+And illness is only one example. There are circumstances that nobody can reasonably plan around in advance:
+
+- **Illness and medical conditions:** colds, infections, injuries, pain, exhaustion, and other health problems.
+- **Death and bereavement:** losing someone important, or having to support someone close to me through a loss.
+- **War and serious instability:** attacks, conflict, danger, displacement, power or internet outages, and the consequences of living in an unstable environment.
+- **Emergencies and major personal events:** accidents, family crises, urgent responsibilities, and other events that genuinely take priority over the schedule.
+
+These are not ordinary distractions. They are exceptional circumstances that can change what I am capable of doing on a given day.
+
+### The solution: Disruption Mode in Fuzzy Journey
+
+I will add a dedicated **Disruption Mode** to Fuzzy Journey.
+
+Instead of abandoning the schedule and doing whatever happens to happen, I will deliberately switch to a smaller, more realistic version of my day.
+
+My initial proposal is to reduce the day's planned workload to **25% of its normal target**.
+
+The purpose is not to force myself to work through an illness or an emergency. It is to preserve a manageable amount of structure when I am still capable of doing something, rather than letting an unexpected event turn into an entirely uncontrolled day.
+
+The principle is:
+
+> When life makes the normal plan impossible, I do not have to abandon planning. I change the scale of the plan to match reality.
+>
+> I am not required to perform at 100% capacity every day. I am responsible for responding intelligently to the capacity I actually have.
+
+### Principles for this mode
+
+1. **Deliberate activation:** Disruption Mode should be an intentional choice, not an automatic punishment for missing tasks.
+2. **Reduced workload:** Start with a target of 25% of the normal daily workload. This is a planning target, not a mandatory minimum.
+3. **Preserve control:** Keep a simple, visible structure for the day instead of letting the entire schedule become undefined.
+4. **Health and safety first:** If I am too sick, exhausted, distressed, or unsafe to work, rest and essential care take priority. Zero work can be the correct choice.
+5. **No accumulated debt:** Uncompleted tasks should not automatically be crammed into tomorrow. Reassess and reschedule them deliberately.
+6. **Return without punishment:** When the exceptional circumstances pass, return to the normal schedule progressively and without treating the disruption as a personal failure.
+
+The exact implementation and workload calculation will be developed in Fuzzy Journey.
+
+**A plan that only works when everything goes perfectly is an incomplete plan. I need a system that also works when life does not.**
+
+Disruption Mode is not an excuse to give up. It is a contingency plan for circumstances that cannot always be prevented.
+
+The objective remains unchanged: stay in control of my decisions, adapt to reality, and continue building the life I chose—without sacrificing my health or ignoring genuine emergencies.
