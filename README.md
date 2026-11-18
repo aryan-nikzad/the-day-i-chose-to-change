@@ -104,7 +104,7 @@ The principle is:
 ### Principles for this mode
 
 1. **Deliberate activation:** Disruption Mode should be an intentional choice, not an automatic punishment for missing tasks.
-2. **Reduced workload:** Start with a target of 25% of the normal daily workload. This is a planning target, not a mandatory minimum.
+2. **Reduced workload:** Start with a target of 25% of the normal daily workload.
 3. **Preserve control:** Keep a simple, visible structure for the day instead of letting the entire schedule become undefined.
 4. **Health and safety first:** If I am too sick, exhausted, distressed, or unsafe to work, rest and essential care take priority. Zero work can be the correct choice.
 5. **No accumulated debt:** Uncompleted tasks should not automatically be crammed into tomorrow. Reassess and reschedule them deliberately.
