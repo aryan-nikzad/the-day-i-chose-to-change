@@ -117,3 +117,60 @@ The exact implementation and workload calculation will be developed in Fuzzy Jou
 Disruption Mode is not an excuse to give up. It is a contingency plan for circumstances that cannot always be prevented.
 
 The objective remains unchanged: stay in control of my decisions, adapt to reality, and continue building the life I chose—without sacrificing my health or ignoring genuine emergencies.
+
+### November 19, 2026 — The Plan Must Live in My Mind, Not Only in Software
+
+I need to establish a more fundamental rule about planning: **the plan must be stored and understood in my own mind. Fuzzy Journey is not the owner of my plan; I am.**
+
+I tell the computer my plan so it can act as a safety check, schedule, and reminder. It should help me notice something if I forget it, but it must not become the only place where the plan exists.
+
+My intended relationship is similar to the relationship between RAM and persistent storage:
+
+- **My brain is the primary place where the plan lives.** I should understand it, remember its important rules, and be able to follow it without depending on a screen.
+- **The computer is the secondary backup and reminder.** It can retain details, check the schedule, remind me of forgotten items, and help me verify that I have not overlooked something.
+- **The computer must not replace my own awareness.** I should not become passive and wait for software to tell me how to live my day.
+
+The software is there to support my memory, not to become my memory. I must remain capable of following the plan even when the computer is unavailable, switched off, or disconnected.
+
+### Focus, order, and avoiding the distraction cycle
+
+One of my biggest difficulties is **تمرکز (focus)**. I have noticed that my concentration becomes much worse when I leave my plan and lose the structure of the day.
+
+My current personal explanation is that excessive pornography and masturbation, too much reliance on the computer, and repeated high-stimulation habits may be contributing to my difficulty concentrating and to symptoms that can resemble ADHD. I do not want to treat that explanation as a medical diagnosis or claim that I have proved the cause. What I can record with certainty is the pattern I have noticed: when I stop following a structured plan, I become more vulnerable to distraction and to habits I am trying to leave behind.
+
+Order matters to me because it makes the day predictable. A clear routine gives me fewer opportunities to drift into unplanned stimulation and distraction. **Staying on the plan is therefore not merely about productivity; it is one of the safeguards I want to use to protect my attention and self-control.**
+
+I should not respond to a lapse by declaring the whole day lost. I should return to the next planned action, without turning the mistake into a larger spiral.
+
+### The 25% day still has structure and personal commitments
+
+Disruption Mode reduces the workload; it does not mean that I abandon every part of my routine.
+
+Even on a 25% day, I want to preserve my regular personal anchors and planned activities:
+
+- Perform my prayers.
+- Exercise.
+- Read my book.
+- Continue the other activities that are part of my normal routine.
+
+The 25% target is about reducing the workload, not casually deleting the habits and commitments that give the day its structure. These activities should remain in the schedule, with sensible adjustments if the actual illness, injury, or emergency makes a particular activity unsafe or impossible. If I genuinely cannot carry them out, health and safety take priority rather than forcing them.
+
+There is also a second, more complete fallback for a day when even a reduced schedule is not realistic:
+
+**Stay home and rest, sleep, or remain awake without using the computer. The computer stays off.** This is an intentional offline recovery day, not an invitation to replace work with hours of screen-based distraction.
+
+### The computer is for work only
+
+I need a firm boundary around computer use:
+
+> **The computer is a work tool. It is not my entertainment device or my social hangout.**
+
+- Use the computer for work and work-related tasks only.
+- Do not use it to chat with friends, casually browse, or seek entertainment.
+- Small, necessary customer conversations are allowed because they are part of work.
+- If I am not working and have no necessary work-related task, I should not open the computer just to fill time.
+- On a full offline recovery day, the computer remains off.
+
+This boundary is intended to reduce unnecessary stimulation and prevent the computer from pulling me away from the life and routine I am trying to build.
+
+**The plan lives in my mind. The computer checks and reminds. My routine protects my focus. The computer serves my work—and nothing else.**
